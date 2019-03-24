@@ -1,1 +1,6 @@
-
+nf = int(input())
+ht = int(input())
+vh = float(input())
+sal = float(ht*vh)
+print("NUMBER = %d" %nf)
+print("SALARY = U$ %0.2f" %sal)
